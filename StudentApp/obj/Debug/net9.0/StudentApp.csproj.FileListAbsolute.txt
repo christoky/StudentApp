@@ -1,0 +1,28 @@
+D:\COP3855\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.exe
+D:\COP3855\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.deps.json
+D:\COP3855\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.runtimeconfig.json
+D:\COP3855\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.dll
+D:\COP3855\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.pdb
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfoInputs.cache
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfo.cs
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.csproj.CoreCompileInputs.cache
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.dll
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\refint\StudentApp.dll
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.pdb
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.genruntimeconfig.cache
+D:\COP3855\StudentApp\StudentApp\obj\Debug\net9.0\ref\StudentApp.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.exe
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.deps.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.runtimeconfig.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\bin\Debug\net9.0\StudentApp.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfoInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.AssemblyInfo.cs
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.csproj.CoreCompileInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\refint\StudentApp.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\StudentApp.genruntimeconfig.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\StudentApp\StudentApp\obj\Debug\net9.0\ref\StudentApp.dll
